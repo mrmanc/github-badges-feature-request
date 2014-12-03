@@ -12,3 +12,5 @@ This could be achieved currently using GitHub Organisations, and setting the ava
 This could potentially develop into custom stickers, allowing you to show off your badges to the world. Everybody loves stickers, right?
 
 There are existing services set up around this functionality, such as [OpenBadges](http://openbadges.org/) and [Coderwall](https://coderwall.com/), but neither integrates deeply with GitHub (although Coderwall will use the GitHub Organisation approach mentioned above). I feel it important that this is GitHub functionality as we want GitHub to become the focus and medium of our code community.
+
+If I’ve missed some existing functionality then I would love to know—please leave a comment!
