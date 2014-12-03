@@ -9,6 +9,6 @@ This could be achieved currently using GitHub Organisations, and setting the ava
 
 <a title="Inbox Zero Merit Badge" href="http://www.nerdmeritbadges.com/products/inbox-zero"><img align=right alt="Inbox Zero Merit Badge" src="http://cdn.shopify.com/s/files/1/0031/3912/products/inbox_zero_large_small.png"/></a>
 
-This could potentially develop into custom stickers, allowing you to show off your badges to the world…
+This could potentially develop into custom stickers, allowing you to show off your badges to the world. Everybody loves stickers, right?
 
 There are existing services set up around this functionality, such as OpenBadges and Coderwall, but neither integrates deeply with GitHub (although Coderwall will use the GitHub Organisation approach mentioned above).
