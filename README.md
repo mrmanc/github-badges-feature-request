@@ -1,4 +1,4 @@
-We have recently adopted GitHub Enterprise at [Auto Trader](http://www.autotrader.co.uk/) and it has been interesting thinking about how the GitHub teams functionality maps to our delivery squads([wtf?])https://dl.dropboxusercontent.com/u/1018963/Articles/SpotifyScaling.pdf)). 
+We have recently adopted GitHub Enterprise at [Auto Trader](http://www.autotrader.co.uk/) and it has been interesting thinking about how the GitHub teams functionality maps to our delivery squads([wtf?](https://dl.dropboxusercontent.com/u/1018963/Articles/SpotifyScaling.pdf)). 
 
 <div style="float: right">
 <a title="By Lamiot (Own work) [CC-BY-SA-2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AM%C3%A9daille_Tchernobyl_goutte_de_sang.jpg"><img width="128" alt="Médaille Tchernobyl goutte de sang" src="http://upload.wikimedia.org/wikipedia/commons/6/61/M%C3%A9daille_Tchernobyl_goutte_de_sang.jpg"/></a>
